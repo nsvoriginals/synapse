@@ -1,0 +1,31 @@
+{
+  "nodes": {
+    "e37c70aa-c489-45c7-83b7-88990cf6d7e3": {
+      "id": "e37c70aa-c489-45c7-83b7-88990cf6d7e3",
+      "title": "Test",
+      "content": "Content",
+      "created_at": "2025-11-07T16:42:32.282617904Z",
+      "tags": [],
+      "links": []
+    },
+    "03bc21b0-028d-4f4a-96e6-5e2f2d50c2ca": {
+      "id": "03bc21b0-028d-4f4a-96e6-5e2f2d50c2ca",
+      "title": "Rust Ownership",
+      "content": "Understanding borrowing",
+      "created_at": "2025-11-07T16:59:39.330754025Z",
+      "tags": [
+        "rust"
+      ],
+      "links": []
+    },
+    "intro-rust": {
+      "id": "intro-rust",
+      "title": "Intro to Rust",
+      "content": "Getting started",
+      "created_at": "2025-11-07T16:59:39.819927064Z",
+      "tags": [],
+      "links": []
+    }
+  },
+  "edges": []
+}
